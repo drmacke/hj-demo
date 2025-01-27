@@ -5,7 +5,7 @@
 #     type: "markup"
 #     suffix: ".html"
 
-# Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
+# HJ Demo folder on my personal Gmail.
 mountpoints:
  /: https://drive.google.com/drive/folders/1I-isb06Ob68GLbr2ltiO4Pega07xGuC1
 
